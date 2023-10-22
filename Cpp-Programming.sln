@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04. Loop", "04. Loop\04. Lo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05. Function", "05. Function\05. Function.vcxproj", "{246E7BEB-97BA-4282-8381-14D87B46B7C4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06. Pointer", "06. Pointer\06. Pointer.vcxproj", "{150C41E0-62C2-4F56-91C1-9D9182C96EB3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{246E7BEB-97BA-4282-8381-14D87B46B7C4}.Release|x64.Build.0 = Release|x64
 		{246E7BEB-97BA-4282-8381-14D87B46B7C4}.Release|x86.ActiveCfg = Release|Win32
 		{246E7BEB-97BA-4282-8381-14D87B46B7C4}.Release|x86.Build.0 = Release|Win32
+		{150C41E0-62C2-4F56-91C1-9D9182C96EB3}.Debug|x64.ActiveCfg = Debug|x64
+		{150C41E0-62C2-4F56-91C1-9D9182C96EB3}.Debug|x64.Build.0 = Debug|x64
+		{150C41E0-62C2-4F56-91C1-9D9182C96EB3}.Debug|x86.ActiveCfg = Debug|Win32
+		{150C41E0-62C2-4F56-91C1-9D9182C96EB3}.Debug|x86.Build.0 = Debug|Win32
+		{150C41E0-62C2-4F56-91C1-9D9182C96EB3}.Release|x64.ActiveCfg = Release|x64
+		{150C41E0-62C2-4F56-91C1-9D9182C96EB3}.Release|x64.Build.0 = Release|x64
+		{150C41E0-62C2-4F56-91C1-9D9182C96EB3}.Release|x86.ActiveCfg = Release|Win32
+		{150C41E0-62C2-4F56-91C1-9D9182C96EB3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
